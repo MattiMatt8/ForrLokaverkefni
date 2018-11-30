@@ -2,6 +2,7 @@
 * ### Skjöl
     * #### Lokaverkefni.cpp
         * Hefur main function/keyrir forritið.
+        * Nota Enum í valmyndinni.
     * #### LinkedList.h
         * Heldur utan um linked listann og öll function fyrir hann.
     * #### BookingSystem.h
@@ -24,7 +25,7 @@
         * ##### cancel [id][n]
             * Eyða farþegum úr bókun.
         * ##### compare [id][id2]
-            * Bera saman tvær bókanir miðað við hversu full þau eru prósentulega.
+            * Bera saman tvær bókanir miðað við hversu full þau eru prósentulega.  Notar operator föll til að bera saman bókanir.
         * ##### move [fromID][toID]
             * Færir jafn marga farþega og hægt er frá fromID bókuninni til toID bókuninni.
         * ##### quit
