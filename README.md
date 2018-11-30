@@ -1,1 +1,2 @@
-# ForrLokaverkefni
+# Lokaverkefni Forritun C++
+## Matthías
