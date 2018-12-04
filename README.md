@@ -1,4 +1,12 @@
 # Lokaverkefni Forritun C++
+* ### Það sem var gert auka
+    * Skjalarvinnsla, hver bókun hefur default skjal fyrir sig til að vista og lesa úr, það er líka hægt að velja custom skjal.
+    * Raða linked lista eftir ascending eða descending.
+    * deleteR skipunin hún leyfir að eyða mörgum booking eftir range-i sem er gefið upp frá og með id til og með id.
+    * move skipunin sem færir jafn marga farþega og hægt er frá fromID bókuninni til toID bókuninni.
+    * Enum, það er notað enum í aðal valmyndinni í Lokaverkefni.cpp
+    * Header skjöl til þess að það sé sem minnst af tvöfölduðum kóða og hægt er og er þar aðleiðandi meira dynamic forrit.
+    
 * ### Skjöl
     * #### Lokaverkefni.cpp
         * Hefur main function/keyrir forritið.
